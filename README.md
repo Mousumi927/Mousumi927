@@ -8,4 +8,3 @@
 
 📫 Let's Connect: Feel free to reach out to me on https://www.linkedin.com/in/mousumi-saha/.
 
-I'm truly excited about the limitless possibilities that the tech world has to offer, and I can't wait to team up, explore, and create something remarkable together! 💡
