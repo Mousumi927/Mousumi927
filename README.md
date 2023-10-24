@@ -1,6 +1,6 @@
 👋 Hey there, I'm Mousumi Saha, a recent graduate and enthusiastic Full Stack Developer on a mission to create web applications that tackle real-world challenges. 
 
-🎓 I earned my degree in Finance and Accounts and have 5+ years of work experience in finance and payments systems. After I learnt full-stack development using cutting edge technologies like React, Node, SQL and MongoDB, I'm passionate about combining both Finance and technology and the limitless potential of these two to enhance our daily lives. Whether it's crafting user-friendly interfaces or architecting resilient server-side solutions, I thrive on the problem-solving aspects of development.
+🎓 I earned my degree in Finance and Accounts and have 5+ years of work experience in e-commerce, finance and payments systems. After I learnt full-stack development using cutting edge technologies like React, Node, SQL and MongoDB, I'm passionate about combining both Finance and technology and the limitless potential of these two to enhance our daily lives. Whether it's crafting user-friendly interfaces or architecting resilient server-side solutions, I thrive on the problem-solving aspects of development.
 
 🚀 What fuels me is the ever-evolving tech landscape, and I'm thrilled to be a part of this journey of perpetual learning and growth.
 
