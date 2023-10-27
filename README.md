@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+How about if we connect on LinkedIn? Feel free to click the button below, and we can connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mousumi-saha/) 
 
 # 💻 Tech Stack:
