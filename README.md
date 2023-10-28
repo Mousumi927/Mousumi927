@@ -16,4 +16,4 @@ How about if we connect on LinkedIn? Feel free to click the button at the right,
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/mousumi927/count.svg)
+Thanks for visiting! ![Visitor Count](https://profile-counter.glitch.me/mousumi927/count.svg)
