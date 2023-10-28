@@ -17,5 +17,5 @@ How about if we connect on LinkedIn? Feel free to click the button at the right,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mousumi927&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMousumi927%2FMousumi927&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
 
